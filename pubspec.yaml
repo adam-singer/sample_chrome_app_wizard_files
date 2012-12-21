@@ -1,0 +1,6 @@
+name:  sample_chrome_app_wizard_files
+description:  A sample application
+
+dependencies:
+  js: { git: git://github.com/dart-lang/js-interop.git }
+#  unittest: any
